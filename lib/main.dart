@@ -12,7 +12,6 @@ void main() {
     ),
   );
 }
-
 class WeatherApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
