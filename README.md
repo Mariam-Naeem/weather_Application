@@ -1,16 +1,23 @@
-# weather_app_tharwat
+# Weather Application 🌤️
 
-A new Flutter project.
+A Flutter weather application that provides weather information with search functionality and dynamic weather conditions.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Search for weather by city
+- Display current weather information
+- Dynamic weather conditions
+- Weather-specific images
+- Clean and simple user interface
+- API integration
+- State management using Provider
+- Navigation using GoRouter
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Provider
+- REST API
+- GoRouter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
